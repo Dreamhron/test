@@ -6,5 +6,4 @@ public interface test {
 	
 	public void find();
 	public void out();
-	public void find2();
 }

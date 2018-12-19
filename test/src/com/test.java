@@ -5,4 +5,5 @@ public interface test {
 	public void delete();
 	
 	public void find();
+	public void out();
 }
